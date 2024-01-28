@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rwuestner
 - 👀 I’m interested in python / django / web programming / databases / datascience
 - 🌱 I’m currently learning pyhton / django
+- 🌱 I´m currently learning Kotlin / Jetpack Comopose
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me rwuestner@mailbox.org
 
